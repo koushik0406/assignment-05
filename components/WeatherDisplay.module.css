@@ -1,0 +1,9 @@
+.weatherInfo {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 20px auto;
+    width: 300px;
+    background-color: #f9f9f9;
+  }
+  
